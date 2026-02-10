@@ -22,15 +22,16 @@ I like taking messy data and turning it into something useful or easier to under
 
 - Python  
 - SQL  
-- Excel (Power Query, Pivot Tables, dashboards)  
-- VS Code / Spyder  
+- Excel
+- Spyder  
 - GitHub  
 
 ---
 
 ## Right now
 
-- Building small projects for my portfolio  
+- Building Python and SQL projects for practice
+- Learning how to use GitHub
 - Practicing analytics and data visualization  
 - Looking for internships in data analytics, business intelligence, or tech roles  
 
