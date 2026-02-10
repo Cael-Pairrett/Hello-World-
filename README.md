@@ -51,7 +51,7 @@ It’s a good balance from staring at a screen all day.
 
 ## Reach me
 
-- LinkedIn: [add link]
-- Email: [add email]
+- LinkedIn: [www.linkedin.com/in/caelpairrett]
+- Email: [caelpairrett@gmail.com]
 
 Thanks for stopping by 👍
